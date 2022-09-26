@@ -24,7 +24,7 @@
   padding: 0;
   position: relative;
   background-color: #f2f2f2;
-  z-index: -2;
+  z-index: 0;
 }
 
 .logo {
@@ -202,7 +202,7 @@ margin-top: 60px;
   box-sizing: border-box;
   position: relative;
   background-color: #f2f2f2;
-  z-index: -2;
+  z-index: 0;
   padding-top: 100px;
 }
 
