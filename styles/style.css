@@ -66,6 +66,7 @@ z-index: 1;
 
 .header__link {
   text-decoration: none;
+  color: #2f80ed;
 }
 
 .header__main-illustration {
@@ -239,7 +240,9 @@ margin-top: 60px;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  color: #2f80ed;
 }
+
 
 .kaufman {
   display: flex;
