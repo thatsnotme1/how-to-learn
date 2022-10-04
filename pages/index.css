@@ -91,12 +91,6 @@
 @import url(../blocks/footer/__list/footer__list.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
-@keyframes rotate
-{
-to {
-    transform: rotate(360deg);
-}
-}
 
 
 
