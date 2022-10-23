@@ -4,7 +4,6 @@
   flex-direction: row;
   flex-wrap: wrap;
   box-sizing: border-box;
-  row-gap: 60px;
   gap: 100px;
   margin: auto;
 }
