@@ -1,9 +1,5 @@
 .resources__link {
-  width: 270px;
-  height: 38px;
   overflow: hidden;
-  display: flex;
-  justify-content: center;
 }
 .resources__link:hover {
   opacity: 0.5;
